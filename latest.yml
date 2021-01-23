@@ -1,0 +1,8 @@
+version: 0.1.100
+files:
+  - url: release.exe
+    sha512: 6UkatrETvl5gopeEPe9VjHbteHYl/DqzzZT4lPSGWlSFRO4X7x7E+b3u2DqONwXSyRK5FFFIuC/QEcrmt49dVQ==
+    size: 217136420
+path: release.exe
+sha512: 6UkatrETvl5gopeEPe9VjHbteHYl/DqzzZT4lPSGWlSFRO4X7x7E+b3u2DqONwXSyRK5FFFIuC/QEcrmt49dVQ==
+releaseDate: '2021-01-21T09:22:05.440Z'
